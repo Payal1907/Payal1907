@@ -11,7 +11,7 @@ Open-source AI projects
 
 📫 **Reach Me:**  
 - LinkedIn: [Payal Singh](https://www.linkedin.com/in/payalsingh626/)
-- Email: payal.singh@example.com (replace with your actual email)
+- Email: payalworkcu@gmail.com
 
 😄 **Pronouns:**  
 She/Her
