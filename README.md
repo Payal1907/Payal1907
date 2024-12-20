@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **payalworkcu@gmail.com**
 
-- ⚡ Fun fact **I'm a Defence Aspirant turned Software Engineer**
+- ⚡ Fun fact **I'm a Defence Aspirant turned Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
