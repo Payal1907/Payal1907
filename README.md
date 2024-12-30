@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
 <h1 align="center">Hi there! I'm Payal..</h1>
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 
