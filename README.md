@@ -2,9 +2,9 @@
 <h1 align="center">Hi there! I'm Payal..</h1>
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **DISHA**
+- 🔭 I’m currently working on **MyLuna**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NOSQL**
 
 - 📫 How to reach me **payalworkcu@gmail.com**
 
