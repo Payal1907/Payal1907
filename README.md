@@ -70,7 +70,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 
-- Linkedin: linkedin.com/in/payalsingh626
+- Linkedin: [payalsingh646](https://www.linkedin.com/in/payalsingh626)
 - Mail: payalworkcu@gmail.com
 
 
