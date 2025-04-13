@@ -1,23 +1,81 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Payal1907&color=green)
-<h1 align="center">Hi there! I'm Payal..</h1>
-<h3 align="center">An Aspiring Full Stack Developer</h3>
-
-- 🔭 I’m currently working on **MyLuna**
-
-- 🌱 I’m currently learning **NOSQL**
-
-- 📫 How to reach me **payalworkcu@gmail.com**
-
-- ⚡ Fun fact **I'm a Defence Aspirant turned Engineer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/payalsingh626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="payalsingh626" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/singhpayal21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singhpayal21" height="30" width="40" /></a>
+<h1 align="left">Hi 👋! I'm Payal..</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&size=26&duration=1000&pause=500&color=FF007F&center=true&vCenter=true&width=500&lines=I+love+to+code+💻;I+am+a+cadet+🎖️;I+love+to+learn+📚" alt="Typing SVG" />
 </p>
+<h3 align="left">About Me: </h3>
+<p>I am a second-year Computer Science Engineering student with a strong interest in programming, problem-solving, and emerging technologies. Passionate about learning, collaboration, and continuous improvement, I am dedicated to expanding my skills and growing both personally and professionally.</p>
 
+<h4 align="left">ACHIEVEMENTS </h4>
+
+🏆 **SIH Finalist 2024**
+
+🏆 Selected for **Aspire Leaders Program**
+
+🏆 Qualified **National Defence Academy** Examination (AIR 275 & AIR 330)
+
+🏆 **Top 5** Inohax 1.0
+
+<hr>
+<h3 align="left">Programming Dashboard:</h3>
+
+<h3 align="center">LEETCODE ACTIVITY</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/singhpayal21" alt="LeetCode Stats" />
+</p>
+<h3 align="center">GFG ACTIVITY</h3>
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/singhpayal21" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks - singhpayal21" height="70" />
+  </a>
+</p>
+<h3 align="center">TUF DSA SHEET ACTIVITY</h3>
+<p align="center">
+  <a href="https://takeuforward.org/profile/singhpayal21" target="blank">
+    <img align="center" src="https://yt3.googleusercontent.com/ytc/AIdro_mdPFTT7VuJHQkvzW9gjJxvSV3bBDpEVNw8dWOmHjTT5g=s900-c-k-c0x00ffffff-no-rj" alt="Take U Forward - singhpayal21" height="90" />
+  </a>
+</p>
+  
+<hr>
+
+<h3 align="left">Current Activities:</h3>
+
+🚀 Currently building **MyLuna**, a Period Wellness Web App.
+
+🛠️ Learning **Backend Development** and **Database Integration** to power smarter features.
+
+<hr>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-808080?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<hr>
+<h3 align="left">Github Stats:</h3>
+<h3 align="center">My GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Payal1907&show_icons=true&theme=radical" alt="Payal Singh's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal1907&layout=compact&theme=radical" alt="Payal Singh's Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Payal1907&theme=radical" alt="GitHub Streak" />
+</p>
+<hr>
+<h3 align="left">Connect with me:</h3>
+
+- Linkedin: linkedin.com/in/payalsingh626
+- Mail: payalworkcu@gmail.com
+
+
+
+
 
 
 
