@@ -16,6 +16,8 @@
 
 🏆 **Top 5** Inohax 1.0
 
+🏆 **Top 4** in Project Expo 2025 CSE 2nd Yr (out of 200+ teams)
+
 <hr>
 <h3 align="left">Programming Dashboard:</h3>
 
