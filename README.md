@@ -31,12 +31,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks - singhpayal21" height="70" />
   </a>
 </p>
-<h3 align="center">TUF DSA SHEET ACTIVITY</h3>
-<p align="center">
-  <a href="https://takeuforward.org/profile/singhpayal21" target="blank">
-    <img align="center" src="https://yt3.googleusercontent.com/ytc/AIdro_mdPFTT7VuJHQkvzW9gjJxvSV3bBDpEVNw8dWOmHjTT5g=s900-c-k-c0x00ffffff-no-rj" alt="Take U Forward - singhpayal21" height="90" />
-  </a>
-</p>
+
   
 <hr>
 
