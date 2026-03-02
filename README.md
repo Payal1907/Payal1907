@@ -23,7 +23,7 @@
 
 <h3 align="center">LEETCODE ACTIVITY</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/payalsingh2109" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/singhpayal19" alt="LeetCode Stats" />
 </p>
 <h3 align="center">GFG ACTIVITY</h3>
 <p align="center">
