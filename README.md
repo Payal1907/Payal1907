@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&size=26&duration=1000&pause=500&color=FF007F&center=true&vCenter=true&width=500&lines=I+love+to+code+💻;I+am+a+cadet+🎖️;I+love+to+learn+📚" alt="Typing SVG" />
 </p>
 <h3 align="left">About Me: </h3>
-<p>I am a second-year Computer Science Engineering student with a strong interest in programming, problem-solving, and emerging technologies. Passionate about learning, collaboration, and continuous improvement, I am dedicated to expanding my skills and growing both personally and professionally.</p>
+<p>I am a pre-final year Computer Science Engineering student with a strong interest in programming, problem-solving, and emerging technologies. Passionate about learning, collaboration, and continuous improvement, I am dedicated to expanding my skills and growing both personally and professionally.</p>
 
 <h4 align="left">ACHIEVEMENTS </h4>
 
